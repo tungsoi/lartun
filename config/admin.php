@@ -10,6 +10,11 @@ return [
         'namespace' => 'App\\Admin\\Controllers',
         'middleware' => ['web', 'admin'],
     ],
+    'route_dashboard' => [
+        'prefix' => env('DASHBOARD_ROUTE_PREFIX', ''),
+        'namespace' => 'App\\Admin\\Controllers\\Dashboard',
+        'middleware' => ['web'],
+    ],
     'directory' => app_path('Admin'),
     'title' => 'CMS',
     'https' => env('ADMIN_HTTPS', true),
@@ -73,7 +78,7 @@ return [
     |    "skin-blue", "skin-blue-light", "skin-yellow", "skin-yellow-light", "skin-green", "skin-green-light",
     |    "skin-red", "skin-red-light", "skin-black", "skin-black-light", "skin-purple", "skin-purple-light",
     */
-    'skin' => 'skin-red',
+    'skin' => 'skin-purple',
     /*
     | "fixed", "layout-boxed", "layout-top-nav", "sidebar-collapse", "sidebar-mini"
     */
