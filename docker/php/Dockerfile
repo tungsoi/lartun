@@ -1,4 +1,4 @@
-FROM php:7.4-fpm
+FROM php:7.3.3-fpm
 
 # System packages
 RUN apt-get update && apt-get install -y \
@@ -11,8 +11,8 @@ RUN apt-get update && apt-get install -y \
     libonig-dev \
     libxml2-dev \
     && docker-php-ext-configure gd \
-        --with-freetype \
-        --with-jpeg \
+        --with-freetype-dir=/usr/include/ \
+        --with-jpeg-dir=/usr/include/ \
     && docker-php-ext-install \
         pdo \
         pdo_mysql \
@@ -20,7 +20,9 @@ RUN apt-get update && apt-get install -y \
         zip \
         gd \
         xml \
-        bcmath
+        bcmath \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
 
 COPY --from=composer:2.2 /usr/bin/composer /usr/bin/composer
 
