@@ -174,11 +174,10 @@
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
                                         <div class="punch-image punch-type-text punch-align-center punch-align-tablet-center punch-align-mobile-center punch-animated-generic top-to-bottom">
                                             <picture>
-                                                <source srcset="https://2689945.fs1.hubspotusercontent-na1.net/hubfs/2689945/Badge-Leader%20KLUTCH%20USE%20THIS%20ONE.png">
                                                 <img loading="lazy"
-                                                     src="https://www.cobalt.io/hubfs/Badge-Leader%20KLUTCH%20USE%20THIS%20ONE.png"
+                                                     src="https://csptech.vn/wp-content/uploads/2023/10/INTR_HUNTER-GIAY-BAN-QUYEN-1086x1536.jpg"
                                                      alt="Badge-Leader KLUTCH USE THIS ONE" width="100%"
-                                                     style="max-width: 250px; max-height: 250px">
+                                                     style="max-width: 250px">
                                             </picture>
                                         </div>
                                     </div>

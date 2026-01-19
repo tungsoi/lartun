@@ -12,7 +12,7 @@
                             <section class="hero_section__main">
                                 <div class="hero_section__row">
                                     <div class="hero_section__column color_mobile1"
-                                         style="background-image:url('https://www.cobalt.io/hubfs/GigaOm-Takeover-Background-1600x1150.jpg')">
+                                         style="background-image:url('https://cdn.vectorstock.com/i/500p/73/71/cybersecurity-laptop-with-shield-vector-38107371.jpg')">
                                         <div class="wrapper">
                                             <div class="hero_section__crow align-center">
                                                 <div class="hero_section__cleft left-to-right punch_start_animation">
@@ -33,12 +33,12 @@
                                                     </div>
                                                 </div>
                                                 <div class="hero_section__cright">
-                                                    <img src="https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=650&amp;height=450&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png"
+                                                    <img src="https://csptech.vn/wp-content/uploads/2025/05/chia-khoa-vang.jpg"
                                                          alt="GigaOm Takeover Graphic 650x450"
-                                                         loading="lazy" width="650" height="450"
-                                                         style="max-width: 100%; height: auto;"
-                                                         srcset="https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=325&amp;height=225&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 325w, https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=650&amp;height=450&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 650w, https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=975&amp;height=675&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 975w, https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=1300&amp;height=900&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 1300w, https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=1625&amp;height=1125&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 1625w, https://www.cobalt.io/hs-fs/hubfs/GigaOm%20Takeover%20Graphic%20650x450.png?width=1950&amp;height=1350&amp;name=GigaOm%20Takeover%20Graphic%20650x450.png 1950w"
-                                                         sizes="(max-width: 650px) 100vw, 650px">
+                                                         loading="lazy" width="300px">
+                                                    <img src="https://csptech.vn/wp-content/uploads/2024/12/CamScanner-1091x1536.jpg"
+                                                         alt="GigaOm Takeover Graphic 650x450"
+                                                         loading="lazy" width="300px">
                                                 </div>
                                             </div>
                                         </div>

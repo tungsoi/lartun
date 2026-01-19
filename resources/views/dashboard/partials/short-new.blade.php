@@ -104,9 +104,8 @@
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
                                         <div class="cobalt-single-post punch-animated-generic bottom-to-top">
                                             <div class="image">
-                                                <a href="https://resource.cobalt.io/state-of-pentesting-healthcare-2025">
-                                                    <img src="https://www.cobalt.io/hubfs/state-of-healthcare_stack.png"
-                                                         alt="state-of-healthcare_stack" wdith="232">
+                                                <a href="#">
+                                                    <img src="https://csptech.vn/wp-content/uploads/2023/10/MAL_HUNTER-GIAY-BAN-QUYEN-1-1064x1536.jpg" style="width: 500px !important;">
                                                 </a>
                                             </div>
                                         </div>

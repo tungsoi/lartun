@@ -140,7 +140,7 @@
                                                     </div>
                                                     <div class="punch-tab-slider-media-wrapper">
                                                         <img loading="lazy" class="punch-grid-item-media"
-                                                             src="https://www.cobalt.io/hubfs/Integrate_Hub_image@2x.webp"
+                                                             src="https://csptech.vn/wp-content/uploads/2025/02/blockchain-6.jpg"
                                                              alt="Integrate_Hub">
                                                     </div>
                                                 </div>
@@ -188,7 +188,7 @@
 
                                                     <div class="punch-tab-slider-media-wrapper">
                                                         <img loading="lazy" class="punch-grid-item-media"
-                                                             src="https://www.cobalt.io/hubfs/Automate_Findings_image@2x.webp"
+                                                             src="https://csptech.vn/wp-content/uploads/2025/02/blockchain-4.jpg"
                                                              alt="Automate_Findings">
                                                     </div>
                                                 </div>
@@ -230,7 +230,7 @@
                                                     </div>
                                                     <div class="punch-tab-slider-media-wrapper">
                                                         <img loading="lazy" class="punch-grid-item-media"
-                                                             src="https://www.cobalt.io/hubfs/Analyze_Findings_image@2x.webp"
+                                                             src="https://csptech.vn/wp-content/uploads/2024/07/What-is-a-Web-Application-Firewall-WAF.png"
                                                              alt="Analyze_Findings">
                                                     </div>
                                                 </div>
@@ -275,8 +275,8 @@
 
                                                     <div class="punch-tab-slider-media-wrapper">
                                                         <img loading="lazy" class="punch-grid-item-media"
-                                                             src="https://www.cobalt.io/hubfs/Grow_Planning_image@2x.webp"
-                                                             alt="Grow_Planning">
+                                                             src="https://csptech.vn/wp-content/uploads/2023/05/Anh8.jpg"
+                                                             alt="Grow_Planning" width="100%">
                                                     </div>
                                                 </div>
                                             </div>

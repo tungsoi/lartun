@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="alternate-header">
+<html lang="en" class="alternate-header header-is-scrolled">
 @include("dashboard.header")
 <body id="top" class="hs-content-id-174329775675 hs-site-page page hs-skip-lang-url-rewrite">
 <div>
