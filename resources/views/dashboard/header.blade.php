@@ -29,6 +29,7 @@
         pre[class*=language-]:after, pre[class*=language-]:before {
             content: none;
         }
+
         a.cta_button {
             -moz-box-sizing: content-box !important;
             -webkit-box-sizing: content-box !important;
@@ -123,7 +124,8 @@
             background: #fff !important;
         }
     </style>
-    <link rel="stylesheet" href="{{ asset('dashboard/hubfs/hub_generated/module_assets/1/182385787549/1744340403534/module_Hero_Section.min.css') }}">
+    <link rel="stylesheet"
+          href="{{ asset('dashboard/hubfs/hub_generated/module_assets/1/182385787549/1744340403534/module_Hero_Section.min.css') }}">
     <link rel="stylesheet" href="{{ asset('dashboard/hubfs/slick.min.css') }}">
     <style>
         .hero_section__cleft h1 {
@@ -171,7 +173,8 @@
         }
     </style>
 
-    <link rel="stylesheet" href="{{ asset('dashboard/hubfs/hub_generated/module_assets/1/199295892120/1762793283535/module_stats.min.css') }}">
+    <link rel="stylesheet"
+          href="{{ asset('dashboard/hubfs/hub_generated/module_assets/1/199295892120/1762793283535/module_stats.min.css') }}">
     <style>
         .stats,
         .dnd-section.stats {
@@ -181,8 +184,7 @@
 
     <link rel="stylesheet"
           href="{{ asset('dashboard/hubfs/hub_generated/module_assets/1/153482232588/1742504555697/module_tabs.min.css') }}">
-    <link rel="stylesheet"
-          href="https://www.cobalt.io/">
+    <link rel="stylesheet" href="https://www.cobalt.io/">
 
     <style id="hs_editor_style" type="text/css">
         .main-row-0-force-full-width-section > .row-fluid {
@@ -583,105 +585,6 @@
             background-repeat: no-repeat !important;
         }
     </style>
-{{--    <script>--}}
-{{--        var _hsp = window._hsp = window._hsp || [];--}}
-{{--        window.dataLayer = window.dataLayer || [];--}}
-
-{{--        function gtag() {--}}
-{{--            dataLayer.push(arguments);--}}
-{{--        }--}}
-
-{{--        var useGoogleConsentModeV2 = true;--}}
-{{--        var waitForUpdateMillis = 1000;--}}
-
-
-{{--        var hsLoadGtm = function loadGtm() {--}}
-{{--            if (window._hsGtmLoadOnce) {--}}
-{{--                return;--}}
-{{--            }--}}
-
-{{--            if (useGoogleConsentModeV2) {--}}
-
-{{--                gtag('set', 'developer_id.dZTQ1Zm', true);--}}
-
-{{--                gtag('consent', 'default', {--}}
-{{--                    'ad_storage': 'denied',--}}
-{{--                    'analytics_storage': 'denied',--}}
-{{--                    'ad_user_data': 'denied',--}}
-{{--                    'ad_personalization': 'denied',--}}
-{{--                    'wait_for_update': waitForUpdateMillis--}}
-{{--                });--}}
-
-{{--                _hsp.push(['useGoogleConsentModeV2'])--}}
-{{--            }--}}
-
-{{--            (function (w, d, s, l, i) {--}}
-{{--                w[l] = w[l] || [];--}}
-{{--                w[l].push({--}}
-{{--                    'gtm.start':--}}
-{{--                        new Date().getTime(), event: 'gtm.js'--}}
-{{--                });--}}
-{{--                var f = d.getElementsByTagName(s)[0],--}}
-{{--                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';--}}
-{{--                j.async = true;--}}
-{{--                j.src =--}}
-{{--                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;--}}
-{{--                f.parentNode.insertBefore(j, f);--}}
-{{--            })(window, document, 'script', 'dataLayer', 'GTM-TVJQ6QB');--}}
-
-{{--            window._hsGtmLoadOnce = true;--}}
-{{--        };--}}
-
-{{--        _hsp.push(['addPrivacyConsentListener', function (consent) {--}}
-{{--            if (consent.allowed || (consent.categories && consent.categories.analytics)) {--}}
-{{--                hsLoadGtm();--}}
-{{--            }--}}
-{{--        }]);--}}
-
-{{--    </script>--}}
-
-{{--    <link rel="canonical" href="https://www.cobalt.io">--}}
-
-{{--    <script src="https://cdn.userway.org/widget.js" data-account="wOujVv7qbm"></script>--}}
-{{--    <script>(function () {--}}
-{{--            var gs = document.createElement('script');--}}
-{{--            gs.src = 'https://js.partnerstack.com/v1/';--}}
-{{--            gs.type = 'text/javascript';--}}
-{{--            gs.async = 'true';--}}
-{{--            gs.onload = gs.onreadystatechange = function () {--}}
-{{--                var rs = this.readyState;--}}
-{{--                if (rs && rs != 'complete' && rs != 'loaded') return;--}}
-{{--                try {--}}
-{{--                    growsumo._initialize('pk_9wNv5D3mu3YEj4r7WCS0Qoi4yAjyWaAT');--}}
-{{--                    if (typeof (growsumoInit) === 'function') {--}}
-{{--                        growsumoInit();--}}
-{{--                    }--}}
-{{--                } catch (e) {--}}
-{{--                }--}}
-{{--            };--}}
-{{--            var s = document.getElementsByTagName('script')[0];--}}
-{{--            s.parentNode.insertBefore(gs, s);--}}
-{{--        })();</script>--}}
-{{--    <meta name="google-site-verification" content="sEfOdIsqIJ74hd8_JiWpOpUVDkvbA4DhGA_chrlRb9w">--}}
-{{--    <script>--}}
-{{--        function injectQualifiedScript() {--}}
-{{--            (function (w, q) {--}}
-{{--                w['QualifiedObject'] = q;--}}
-{{--                w[q] = w[q] || function () {--}}
-{{--                    (w[q].q = w[q].q || []).push(arguments)--}}
-{{--                };--}}
-{{--            })(window, 'qualified');--}}
-{{--            (function (d, script) {--}}
-{{--                script = d.createElement('script');--}}
-{{--                script.type = 'text/javascript';--}}
-{{--                script.async = true;--}}
-{{--                script.src = 'https://js.qualified.com/qualified.js?token=dJJoNvTjoDsfvpiD';--}}
-{{--                d.getElementsByTagName('head')[0].appendChild(script);--}}
-{{--            }(document));--}}
-{{--        }--}}
-
-{{--        injectQualifiedScript();--}}
-{{--    </script>--}}
 
     <script type="text/javascript" async src="{{ asset('dashboard/hubfs/v4.js') }}"></script>
     <style>
@@ -746,19 +649,20 @@
         }
     </script>
 
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js"
             integrity="sha512-wT7uPE7tOP6w4o28u1DN775jYjHQApdBnib5Pho4RB0Pgd9y7eSkAV1BTqQydupYDB9GBhTcQQzyNMPMV3cAew=="
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+          rel="stylesheet">
 
     <style>
         * {
             font-family: "Google Sans", sans-serif !important;
         }
+
         .slick-slide img {
             display: inline !important;
         }

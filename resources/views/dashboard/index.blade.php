@@ -11,8 +11,6 @@
                 @include("dashboard.partials.header-menu")
             </div>
         </div>
-        <div class="hamburger-overlay"></div>
-        @include("dashboard.partials.hamburger-content")
     </div>
 </div>
 

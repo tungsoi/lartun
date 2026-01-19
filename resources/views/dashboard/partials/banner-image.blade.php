@@ -8,22 +8,21 @@
                         <div id="hs_cos_wrapper_module_17635845817276"
                              class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                              data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                            <span class="punch-section-meta punch-meta-block" data-target="section"
-                                                  data-classes="main-color punch-section-padding-huge">
-                                                <script>
-                                                (function () {
-                                                    var thisEl = document.currentScript.closest(".dnd-section");
-                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                    thisEl.setAttribute("id", "fast-start");
-                                                    punchClassApplier(thisEl, "main-color punch-section-padding-huge".split(" "));
-                                                })()
-                                                </script>
-                                            </span>
+                            <span class="punch-section-meta punch-meta-block" data-target="section"
+                                  data-classes="main-color punch-section-padding-huge">
+                                <script>
+                                    (function () {
+                                        var thisEl = document.currentScript.closest(".dnd-section");
+                                        document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                        thisEl.setAttribute("id", "fast-start");
+                                        punchClassApplier(thisEl, "main-color punch-section-padding-huge".split(" "));
+                                    })()
+                                </script>
+                            </span>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="row-fluid-wrapper row-depth-1 row-number-29 cell_17635845817273-row-1-vertical-alignment dnd-row">
                 <div class="row-fluid ">
                     <div class="span9 widget-span widget-type-cell cell_17635845817277-vertical-alignment dnd-column"
@@ -64,7 +63,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-32 dnd-row">
                             <div class="row-fluid ">
                                 <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -74,14 +72,15 @@
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
                                         <div class="punch-text punch-type-text punch-animated-generic left-to-right"
                                              style="--widthDesktop: 90%;--widthTablet: 100%;--widthMobile: 100%;">
-                                            <div style="color: #ffffff; font-size: 1.25rem;"><span>CSP luôn tâm niệm lấy Tận Tâm – Tin Cậy – Chuyên Nghiệp là kim chỉ nam hoạt động, lấy chất lượng của sản phẩm, dịch vụ và chữ tín là yếu tố sống còn cho sự phát triển của công ty. Chúng tôi không ngừng đổi mới sáng tạo để mang đến cho khách hàng những sản phẩm, dịch vụ hoàn hảo nhất, coi sự hài lòng của khách hàng là thước đo thành công. Bằng khát vọng tiên phong, cùng tầm nhìn chiến lược, CSP luôn nỗ lực hết mình để ngày càng lớn mạnh, góp phần tích cực trong công cuộc chuyển đổi số của Chính phủ và trở thành đối tác số 1 của các cơ quan, tổ chức, doanh nghiệp trong và ngoài nước.</span></span>
+                                            <div style="color: #ffffff; font-size: 1.25rem;">
+                                                <span>CSP luôn tâm niệm lấy Tận Tâm – Tin Cậy – Chuyên Nghiệp là kim chỉ nam hoạt động, lấy chất lượng của sản phẩm, dịch vụ và chữ tín là yếu tố sống còn cho sự phát triển của công ty. Chúng tôi không ngừng đổi mới sáng tạo để mang đến cho khách hàng những sản phẩm, dịch vụ hoàn hảo nhất, coi sự hài lòng của khách hàng là thước đo thành công. Bằng khát vọng tiên phong, cùng tầm nhìn chiến lược, CSP luôn nỗ lực hết mình để ngày càng lớn mạnh, góp phần tích cực trong công cuộc chuyển đổi số của Chính phủ và trở thành đối tác số 1 của các cơ quan, tổ chức, doanh nghiệp trong và ngoài nước.</span>
+                                                </span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-33 dnd-row">
                             <div class="row-fluid ">
                                 <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -101,7 +100,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-34 dnd-row">
                             <div class="row-fluid ">
                                 <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -120,7 +118,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-35 dnd-row">
                             <div class="row-fluid ">
                                 <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -140,7 +137,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-36 dnd-row">
                             <div class="row-fluid ">
                                 <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -148,16 +144,16 @@
                                     <div id="hs_cos_wrapper_module_176358458172722"
                                          class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                                        <span class="punch-row-meta punch-meta-block" data-target="row"
-                                                              data-classes="punch-breakpoint-tablet">
-                                                            <script>
-                                                            (function () {
-                                                                var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
-                                                                document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                                punchClassApplier(thisEl, "punch-breakpoint-tablet".split(" "));
-                                                            })()
-                                                            </script>
-                                                        </span>
+                                    <span class="punch-row-meta punch-meta-block" data-target="row"
+                                          data-classes="punch-breakpoint-tablet">
+                                        <script>
+                                            (function () {
+                                                var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
+                                                document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                                punchClassApplier(thisEl, "punch-breakpoint-tablet".split(" "));
+                                            })()
+                                        </script>
+                                    </span>
                                     </div>
                                 </div>
                             </div>

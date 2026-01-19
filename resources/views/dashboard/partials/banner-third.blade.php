@@ -8,16 +8,16 @@
                         <div id="hs_cos_wrapper_module_17249468835844"
                              class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                              data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                            <span class="punch-section-meta punch-meta-block" data-target="section"
-                                                  data-classes="main-color punch-section-padding-large image-out-right">
-                                                <script>
-                                                (function () {
-                                                    var thisEl = document.currentScript.closest(".dnd-section");
-                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                    punchClassApplier(thisEl, "main-color punch-section-padding-large image-out-right".split(" "));
-                                                })()
-                                                </script>
-                                            </span>
+                            <span class="punch-section-meta punch-meta-block" data-target="section"
+                                  data-classes="main-color punch-section-padding-large image-out-right">
+                                <script>
+                                    (function () {
+                                        var thisEl = document.currentScript.closest(".dnd-section");
+                                        document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                        punchClassApplier(thisEl, "main-color punch-section-padding-large image-out-right".split(" "));
+                                    })()
+                                </script>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -93,16 +93,16 @@
                                     <div id="hs_cos_wrapper_module_172494688358416"
                                          class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                                        <span class="punch-row-meta punch-meta-block" data-target="row"
-                                                              data-classes="punch-breakpoint-tablet hero-offset1">
-                                                            <script>
-                                                            (function () {
-                                                                var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
-                                                                document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                                punchClassApplier(thisEl, "punch-breakpoint-tablet hero-offset1".split(" "));
-                                                            })()
-                                                            </script>
-                                                        </span>
+                                        <span class="punch-row-meta punch-meta-block" data-target="row"
+                                              data-classes="punch-breakpoint-tablet hero-offset1">
+                                            <script>
+                                                (function () {
+                                                    var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
+                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                                    punchClassApplier(thisEl, "punch-breakpoint-tablet hero-offset1".split(" "));
+                                                })()
+                                            </script>
+                                        </span>
                                     </div>
                                 </div>
                             </div>

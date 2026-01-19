@@ -8,21 +8,20 @@
                         <div id="hs_cos_wrapper_module_16464329144345"
                              class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                              data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                            <span class="punch-section-meta punch-meta-block" data-target="section"
-                                                  data-classes="main-color punch-section-padding-huge new-qoutes-section">
-                                                <script>
-                                                (function () {
-                                                    var thisEl = document.currentScript.closest(".dnd-section");
-                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                    punchClassApplier(thisEl, "main-color punch-section-padding-huge new-qoutes-section".split(" "));
-                                                })()
-                                                </script>
-                                            </span>
+                            <span class="punch-section-meta punch-meta-block" data-target="section"
+                                  data-classes="main-color punch-section-padding-huge new-qoutes-section">
+                                <script>
+                                    (function () {
+                                        var thisEl = document.currentScript.closest(".dnd-section");
+                                        document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                        punchClassApplier(thisEl, "main-color punch-section-padding-huge new-qoutes-section".split(" "));
+                                    })()
+                                </script>
+                            </span>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="row-fluid-wrapper row-depth-1 row-number-25 dnd-row">
                 <div class="row-fluid ">
                     <div class="span12 widget-span widget-type-custom_widget dnd-module" style=""
@@ -51,7 +50,9 @@
                                                 <div class="punch-grid-item-subtitle"
                                                      title="Founder and CEO at Jarvis Analytics"></div>
                                                 <div class="punch-text punch-grid-item-content">
-                                                    <strong><span style="font-size: 20px;">“Đội ngũ chuyên gia của CSP có trình độ chuyên môn cao, chuyên sâu, giàu kinh nghiệm, đạt được nhiều các chứng chỉ quốc tế uy tín trong lĩnh vực an toàn thông tin. Với khát vọng tiên phong, chúng tôi không ngừng đổi mới sáng tạo, kiến tạo các công nghệ mới, nắm bắt xu thế thay đổi trong lĩnh vực an toàn thông tin, an ninh mạng. Với sự tận tâm, thái độ phục vụ chuyên nghiệp, quy trình làm việc tối ưu, đội ngũ chuyên gia của CSP sẽ tư vấn các giải pháp phù hợp và đồng hành cùng với quý khách hàng trước mọi nguy cơ, thách thức đến từ không gian mạng.  ”</span></strong>
+                                                    <strong>
+                                                        <span style="font-size: 20px;">“Đội ngũ chuyên gia của CSP có trình độ chuyên môn cao, chuyên sâu, giàu kinh nghiệm, đạt được nhiều các chứng chỉ quốc tế uy tín trong lĩnh vực an toàn thông tin. Với khát vọng tiên phong, chúng tôi không ngừng đổi mới sáng tạo, kiến tạo các công nghệ mới, nắm bắt xu thế thay đổi trong lĩnh vực an toàn thông tin, an ninh mạng. Với sự tận tâm, thái độ phục vụ chuyên nghiệp, quy trình làm việc tối ưu, đội ngũ chuyên gia của CSP sẽ tư vấn các giải pháp phù hợp và đồng hành cùng với quý khách hàng trước mọi nguy cơ, thách thức đến từ không gian mạng. ”</span>
+                                                    </strong>
                                                 </div>
                                                 <div class="punch-cta punch-btn punch-type-text punch-cta-tertiary">
                                                     <a class="cta_button" href="#"></a>
@@ -59,8 +60,6 @@
                                             </div>
                                         </div>
                                     </div>
-
-
                                     <div class="punch-grid-item punch-flickity-slide column is-full-desktop is-full-tablet is-full-mobile punch-grid-media-position-left-side  punch-item-2">
                                         <div class="punch-grid-item-inner column-inner">
                                             <div class="punch-grid-item-media-wrapper"
@@ -78,21 +77,17 @@
                                                 <div class="punch-grid-item-subtitle"
                                                      title="Security Liaison Engineer at Vonage"></div>
                                                 <div class="punch-text punch-grid-item-content">
-                                                    <p style="font-size: 20px;"><strong>"CSP cam kết
-                                                            cung cấp các dịch vụ, giải pháp an toàn
-                                                            thông tin theo tiêu chuẩn quốc tế đảm bảo
-                                                            bảo vệ toàn diện cho hệ thống thông tin, dữ
-                                                            liệu của quý khách hàng. CSP sử dụng các
-                                                            công nghệ tiên tiến nhất thế giới để phát
-                                                            hiện sớm, ngăn chặn các mối đe dọa về bảo
-                                                            mật thông tin và đảm bảo an toàn dữ liệu
-                                                            quan trọng cho quý khách hàng. Với chúng
-                                                            tôi, chất lượng dịch vụ và uy tín đối với
-                                                            khách hàng là yếu tố cốt lõi trong sự sống
-                                                            còn của công ty. Đến với CSP, quý khách hàng
-                                                            hoàn toàn yên tâm về vấn đề an toàn, an ninh
-                                                            của hệ thống thông tin, dữ liệu quan trọng.
-                                                            "</strong>
+                                                    <p style="font-size: 20px;">
+                                                        <strong>"CSP cam kết cung cấp các dịch vụ, giải pháp an toàn
+                                                            thông tin theo tiêu chuẩn quốc tế đảm bảo bảo vệ toàn diện
+                                                            cho hệ thống thông tin, dữ liệu của quý khách hàng. CSP sử
+                                                            dụng các công nghệ tiên tiến nhất thế giới để phát hiện sớm,
+                                                            ngăn chặn các mối đe dọa về bảo mật thông tin và đảm bảo an
+                                                            toàn dữ liệu quan trọng cho quý khách hàng. Với chúng tôi,
+                                                            chất lượng dịch vụ và uy tín đối với khách hàng là yếu tố
+                                                            cốt lõi trong sự sống còn của công ty. Đến với CSP, quý
+                                                            khách hàng hoàn toàn yên tâm về vấn đề an toàn, an ninh của
+                                                            hệ thống thông tin, dữ liệu quan trọng. "</strong>
                                                     </p>
                                                 </div>
                                                 <div class="punch-cta punch-btn punch-type-text punch-cta-tertiary">
@@ -102,7 +97,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="punch-grid-item punch-flickity-slide column is-full-desktop is-full-tablet is-full-mobile punch-grid-media-position-left-side  punch-item-3">
                                         <div class="punch-grid-item-inner column-inner">
                                             <div class="punch-grid-item-media-wrapper"
@@ -120,19 +114,16 @@
                                                 <div class="punch-grid-item-subtitle"
                                                      title="Chief Information Security Officer at Pendo"></div>
                                                 <div class="punch-text punch-grid-item-content">
-                                                    <p style="font-size: 20px;"><strong>"CSP hướng đến
-                                                            mục tiêu là một trong những doanh nghiệp dẫn
-                                                            đầu về cung cấp sản phẩm, dịch vụ, giải pháp
-                                                            chuyên sâu về an toàn thông tin cho các cơ
-                                                            quan, tổ chức, doanh nghiệp trong và ngoài
-                                                            nước. Vì vậy CSP luôn tuân thủ chặt chẽ các
-                                                            tiêu chuẩn, quy định bảo mật trong nước và
-                                                            quốc tế liên quan đến an toàn thông tin.
-                                                            Điều này tạo cơ sở nền tảng để CSP đảm bảo
-                                                            cung cấp cho quý khách hàng dịch vụ, giải
-                                                            pháp theo tiêu chuẩn quốc tế. CSP luôn cam
-                                                            kết tạo ra không gian mạng an toàn cho quý
-                                                            khách hàng trước mọi thách thức và rủi ro an
+                                                    <p style="font-size: 20px;">
+                                                        <strong>"CSP hướng đến mục tiêu là một trong những doanh nghiệp
+                                                            dẫn đầu về cung cấp sản phẩm, dịch vụ, giải pháp chuyên sâu
+                                                            về an toàn thông tin cho các cơ quan, tổ chức, doanh nghiệp
+                                                            trong và ngoài nước. Vì vậy CSP luôn tuân thủ chặt chẽ các
+                                                            tiêu chuẩn, quy định bảo mật trong nước và quốc tế liên quan
+                                                            đến an toàn thông tin. Điều này tạo cơ sở nền tảng để CSP
+                                                            đảm bảo cung cấp cho quý khách hàng dịch vụ, giải pháp theo
+                                                            tiêu chuẩn quốc tế. CSP luôn cam kết tạo ra không gian mạng
+                                                            an toàn cho quý khách hàng trước mọi thách thức và rủi ro an
                                                             ninh mạng. "</strong>
                                                     </p>
                                                 </div>

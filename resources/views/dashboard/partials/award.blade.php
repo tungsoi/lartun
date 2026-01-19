@@ -8,16 +8,16 @@
                         <div id="hs_cos_wrapper_module_164750413979611"
                              class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                              data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                            <span class="punch-section-meta punch-meta-block" data-target="section"
-                                                  data-classes="main-color punch-section-padding-no-padding home-logos">
-                                                <script>
-                                                (function () {
-                                                    var thisEl = document.currentScript.closest(".dnd-section");
-                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                    punchClassApplier(thisEl, "main-color punch-section-padding-no-padding home-logos".split(" "));
-                                                })()
-                                                </script>
-                                            </span>
+                            <span class="punch-section-meta punch-meta-block" data-target="section"
+                                  data-classes="main-color punch-section-padding-no-padding home-logos">
+                                <script>
+                                    (function () {
+                                        var thisEl = document.currentScript.closest(".dnd-section");
+                                        document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                        punchClassApplier(thisEl, "main-color punch-section-padding-no-padding home-logos".split(" "));
+                                    })()
+                                </script>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -33,16 +33,16 @@
                                     <div id="hs_cos_wrapper_widget_1706198868613"
                                          class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"
                                          data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                                        <span class="punch-row-meta punch-meta-block" data-target="row"
-                                                              data-classes="punch-animated-generic bottom-to-top">
-                                                            <script>
-                                                            (function () {
-                                                                var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
-                                                                document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                                punchClassApplier(thisEl, "punch-animated-generic bottom-to-top".split(" "));
-                                                            })()
-                                                            </script>
-                                                        </span>
+                                        <span class="punch-row-meta punch-meta-block" data-target="row"
+                                              data-classes="punch-animated-generic bottom-to-top">
+                                            <script>
+                                                (function () {
+                                                    var thisEl = document.currentScript.closest(".dnd-section > div > div > .row-fluid-wrapper");
+                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                                    punchClassApplier(thisEl, "punch-animated-generic bottom-to-top".split(" "));
+                                                })()
+                                            </script>
+                                        </span>
                                     </div>
                                 </div>
                             </div>

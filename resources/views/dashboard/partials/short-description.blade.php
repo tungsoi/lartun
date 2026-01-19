@@ -8,21 +8,20 @@
                         <div id="hs_cos_wrapper_module_164642736387215"
                              class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=""
                              data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                            <span class="punch-section-meta punch-meta-block" data-target="section"
-                                                  data-classes="main-color punch-section-padding-huge">
-                                                <script>
-                                                (function () {
-                                                    var thisEl = document.currentScript.closest(".dnd-section");
-                                                    document.currentScript.closest(".dnd-row").classList.add("no-padding");
-                                                    punchClassApplier(thisEl, "main-color punch-section-padding-huge".split(" "));
-                                                })()
-                                                </script>
-                                            </span>
+                            <span class="punch-section-meta punch-meta-block" data-target="section"
+                                  data-classes="main-color punch-section-padding-huge">
+                                <script>
+                                    (function () {
+                                        var thisEl = document.currentScript.closest(".dnd-section");
+                                        document.currentScript.closest(".dnd-row").classList.add("no-padding");
+                                        punchClassApplier(thisEl, "main-color punch-section-padding-huge".split(" "));
+                                    })()
+                                </script>
+                            </span>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="row-fluid-wrapper row-depth-1 row-number-16 dnd-row cell_164642736387210-row-1-vertical-alignment">
                 <div class="row-fluid">
                     <div class="span12 widget-span widget-type-cell cell_164642736387216-vertical-alignment dnd-column"
@@ -42,14 +41,12 @@
                                                     <div class="punch-heading punch-type-text punch-animated-generic left-to-right">
                                                         <h2 class="punch-heading-tag"
                                                             title="Kiểm tra bảo mật toàn diện trên mọi bề mặt tấn công.">
-                                                            Kiểm tra bảo mật toàn diện trên mọi bề mặt tấn công
-                                                        </h2>
+                                                            Kiểm tra bảo mật toàn diện trên mọi bề mặt tấn công </h2>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row-fluid-wrapper row-depth-2 row-number-2 dnd-row">
                                         <div class="row-fluid">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -69,7 +66,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row-fluid-wrapper row-depth-2 row-number-3 dnd-row">
                                         <div class="row-fluid ">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -92,7 +88,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row-fluid-wrapper row-depth-2 row-number-4 dnd-row">
                                         <div class="row-fluid ">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -112,7 +107,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row-fluid-wrapper row-depth-2 row-number-5 dnd-row">
                                         <div class="row-fluid ">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -133,7 +127,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-row cell_164642736387216-row-1-vertical-alignment">
                             <div class="row-fluid">
                                 <div class="span12 widget-span widget-type-cell cell_17055680204343-vertical-alignment dnd-column"
@@ -162,7 +155,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row-fluid-wrapper row-depth-2 row-number-2 dnd-row">
                                         <div class="row-fluid ">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module"
@@ -195,7 +187,6 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
                                                             <div class="punch-grid-item  column is-one-third-desktop is-one-third-tablet is-full-mobile punch-animated-generic bottom-to-top  punch-item-2">
                                                                 <div class="punch-grid-item-inner column-inner">
                                                                     <div class="punch-grid-item-media-wrapper"
@@ -218,7 +209,6 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
                                                             <div class="punch-grid-item  column is-one-third-desktop is-one-third-tablet is-full-mobile punch-animated-generic bottom-to-top  punch-item-3">
                                                                 <div class="punch-grid-item-inner column-inner">
                                                                     <div class="punch-grid-item-media-wrapper"
