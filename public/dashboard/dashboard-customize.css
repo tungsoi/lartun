@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'RegularWoft';
+    src: url('./_hcms/googlefonts/Yantramanav/BeVietnamPro-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+html, body {
+    font-family: 'RegularWoft', sans-serif !important;
+    font-size: 12px !important;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+}
+
+.btn {
+    padding: 1px 5px !important;
+    font-size: 12px !important;
+}
+
+.btn, .btn-default, .btn-secondary {
+    background-color: #6c757d !important;
+    border-color: #6c757d !important;
+    color: #fff !important;
+}
+
+.btn:hover, .btn-default:hover {
+    background-color: #5a6268 !important;
+    border-color: #545b62 !important;
+}
+.btn-primary {
+    background-color: #4361ee !important;
+    border-color: #4361ee !important;
+    color: #fff !important;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #3a56d4 !important;
+    border-color: #3a56d4 !important;
+}
+
+.btn-info {
+    background-color: #4cc9f0 !important;
+    border-color: #4cc9f0 !important;
+    color: #fff !important;
+}
+
+.btn-info:hover {
+    background-color: #3db8e5 !important;
+    border-color: #3db8e5 !important;
+}
+
+.btn-success {
+    background-color: #2ec4b6 !important;
+    border-color: #2ec4b6 !important;
+    color: #fff !important;
+}
+
+.btn-success:hover {
+    background-color: #28af1a !important;
+    border-color: #28af1a !important;
+}
+
+.btn-warning {
+    background-color: #ff9f43 !important;
+    border-color: #ff9f43 !important;
+    color: #fff !important;
+}
+
+.btn-warning:hover {
+    background-color: #ee8f32 !important;
+    border-color: #ee8f32 !important;
+}
+
+.btn-danger {
+    background-color: #ee5253 !important;
+    border-color: #ee5253 !important;
+    color: #fff !important;
+}
+
+.btn-danger:hover {
+    background-color: #d44848 !important;
+    border-color: #d44848 !important;
+}
+
+.btn:active {
+    transform: translateY(1px);
+    box-shadow: none !important;
+}
+
+.label-primary, .badge-primary {
+    background-color: #4361ee !important;
+    color: #fff !important;
+}
+
+.label-default, .badge-secondary {
+    background-color: #6c757d !important;
+    color: #fff !important;
+}
+
+.label-info, .badge-info {
+    background-color: #4cc9f0 !important;
+    color: #fff !important;
+}
+
+.label-success, .badge-success {
+    background-color: #2ec4b6 !important;
+    color: #fff !important;
+}
+
+.label-warning, .badge-warning {
+    background-color: #ff9f43 !important;
+    color: #fff !important;
+}
+
+.label-danger, .badge-danger {
+    background-color: #ee5253 !important;
+    color: #fff !important;
+}
+
+.label, .badge {
+    padding: 0.35em 0.6em !important;
+    font-weight: 600 !important;
+    border-radius: 4px !important;
+    text-transform: uppercase;
+    font-size: 85%;
+}
+
+.grid-table {
+    border: 1px solid #e9ecef !important;
+    border-collapse: separate !important;
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+}
+
+.grid-table th,
+.grid-table td {
+    border: 1px solid #f1f3f5 !important;
+    padding: 12px 15px !important;
+    vertical-align: middle !important;
+}
+
+.grid-table thead th {
+    background-color: #f8f9fa !important;
+    color: #495057 !important;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    border-bottom-width: 2px !important;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(67, 97, 238, 0.04) !important;
+    transition: background-color 0.2s ease;
+}
+
+.grid-table thead tr:first-child th:first-child { border-top-left-radius: 8px; }
+.grid-table thead tr:first-child th:last-child { border-top-right-radius: 8px; }
+.grid-table tbody tr:last-child td:first-child { border-bottom-left-radius: 8px; }
+.grid-table tbody tr:last-child td:last-child { border-bottom-right-radius: 8px; }
+
+.column-__row_selector__, .column-no {
+    width: 50px !important;
+    text-align: center;
+}
+.column-__actions__ {
+    text-align: center;
+}

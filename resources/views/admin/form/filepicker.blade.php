@@ -18,10 +18,10 @@
                 </div>
                 <div class="file-caption-info">{{ basename($item['url']) }}</div>
                 <div class="file-actions">
-                    <a class="btn btn-default btn-sm remove">
+                    <a class="btn btn-default btn-xs remove">
                         <i class="fa fa-trash"></i>
                     </a>
-                    <a class="btn btn-default btn-sm" target="_blank" download="{{ basename($item['url']) }}" href="{{ $item['url'] }}">
+                    <a class="btn btn-default btn-xs" target="_blank" download="{{ basename($item['url']) }}" href="{{ $item['url'] }}">
                         <i class="fa fa-download"></i>
                     </a>
                 </div>
@@ -49,10 +49,10 @@
             </div>
             <div class="file-caption-info">_name_</div>
             <div class="file-actions">
-                <a class="btn btn-default btn-sm remove">
+                <a class="btn btn-default btn-xs remove">
                     <i class="fa fa-trash"></i>
                 </a>
-                <a class="btn btn-default btn-sm" target="_blank" download="_name_" href="_url_">
+                <a class="btn btn-default btn-xs" target="_blank" download="_name_" href="_url_">
                     <i class="fa fa-download"></i>
                 </a>
             </div>
@@ -65,10 +65,10 @@
             </div>
             <div class="file-caption-info">_name_</div>
             <div class="file-actions">
-                <a class="btn btn-default btn-sm remove">
+                <a class="btn btn-default btn-xs remove">
                     <i class="fa fa-trash"></i>
                 </a>
-                <a class="btn btn-default btn-sm" target="_blank" download="_name_" href="_url_">
+                <a class="btn btn-default btn-xs" target="_blank" download="_name_" href="_url_">
                     <i class="fa fa-download"></i>
                 </a>
             </div>

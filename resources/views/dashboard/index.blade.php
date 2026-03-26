@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en" class="alternate-header header-is-scrolled">
+
 @include("dashboard.header")
+
 <body id="top" class="hs-content-id-174329775675 hs-site-page page hs-skip-lang-url-rewrite">
 <div>
     <div class="header">
@@ -13,7 +15,6 @@
         </div>
     </div>
 </div>
-
 <div class="container-fluid main">
     <div class="row-fluid-wrapper">
         <div class="row-fluid">
@@ -36,9 +37,7 @@
         </div>
     </div>
 </div>
-
 @include("dashboard.partials.menu-footer")
 @include("dashboard.footer")
-
 </body>
 </html>

@@ -16,7 +16,7 @@ return [
         'middleware' => ['web'],
     ],
     'directory' => app_path('Admin'),
-    'title' => 'CMS',
+    'title' => env('APP_NAME', 'Application') . ' CMS',
     'https' => env('ADMIN_HTTPS', true),
     'auth' => [
         'controller' => App\Admin\Controllers\AuthController::class,
@@ -78,7 +78,7 @@ return [
     |    "skin-blue", "skin-blue-light", "skin-yellow", "skin-yellow-light", "skin-green", "skin-green-light",
     |    "skin-red", "skin-red-light", "skin-black", "skin-black-light", "skin-purple", "skin-purple-light",
     */
-    'skin' => 'skin-purple',
+    'skin' => 'skin-black-light',
     /*
     | "fixed", "layout-boxed", "layout-top-nav", "sidebar-collapse", "sidebar-mini"
     */

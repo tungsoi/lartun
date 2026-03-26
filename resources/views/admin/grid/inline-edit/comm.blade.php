@@ -25,8 +25,8 @@
                 <div class="error"></div>
             </div>
             <div class="ie-action">
-                <button class="btn btn-primary btn-sm ie-submit">{{ __('admin.submit') }}</button>
-                <button class="btn btn-default btn-sm ie-cancel">{{ __('admin.cancel') }}</button>
+                <button class="btn btn-primary btn-xs ie-submit">{{ __('admin.submit') }}</button>
+                <button class="btn btn-default btn-xs ie-cancel">{{ __('admin.cancel') }}</button>
             </div>
         </div>
     </template>

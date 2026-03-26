@@ -1,5 +1,5 @@
 <div class="dropdown pull-right column-selector">
-    <button type="button" class="btn btn-sm btn-instagram dropdown-toggle" data-toggle="dropdown">
+    <button type="button" class="btn btn-xs btn-instagram dropdown-toggle" data-toggle="dropdown">
         <i class="fa fa-table"></i>
         &nbsp;
         <span class="caret"></span>
@@ -26,8 +26,8 @@
         </li>
         <li class="divider"></li>
         <li class="text-right">
-            <button class="btn btn-sm btn-default column-select-all">{{ __('admin.all') }}</button>&nbsp;&nbsp;
-            <button class="btn btn-sm btn-primary column-select-submit">{{ __('admin.submit') }}</button>
+            <button class="btn btn-xs btn-default column-select-all">{{ __('admin.all') }}</button>&nbsp;&nbsp;
+            <button class="btn btn-xs btn-primary column-select-submit">{{ __('admin.submit') }}</button>
         </li>
     </ul>
 </div>

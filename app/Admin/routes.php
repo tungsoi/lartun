@@ -13,6 +13,9 @@ Route::group([
     'as' => config('admin.route.prefix') . '.',
 ], function (Router $router) {
     $router->get('/', 'HomeController@index')->name('home');
+    $router->resources([
+        'global_configs' => 'CMS\GlobalConfigsController',
+    ]);
 });
 
 Route::group([

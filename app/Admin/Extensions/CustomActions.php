@@ -9,7 +9,7 @@ class CustomActions extends Actions
     protected function renderView()
     {
         return <<<EOT
-<a href="{$this->getResource()}/{$this->getRouteKey()}" class="{$this->grid->getGridRowName()}-view btn btn-xs btn-primary" data-toggle="tooltip" title="Xem chi tiết" >
+<a href="{$this->getResource()}/{$this->getRouteKey()}" class="{$this->grid->getGridRowName()}-view btn btn-xs btn-info" data-toggle="tooltip" title="Xem chi tiết" >
     <i class="fa fa-eye"></i>
 </a> &nbsp;
 EOT;

@@ -11,7 +11,7 @@
                 &nbsp;{!! $field->render() !!}
             @endforeach
                 &nbsp;
-            <button class="btn btn-primary btn-sm">{{ __('admin.submit') }}</button>&nbsp;
+            <button class="btn btn-primary btn-xs">{{ __('admin.submit') }}</button>&nbsp;
             <a href="javascript:void(0);" class="cancel">{{ __('admin.cancel') }}</a>
             {{ csrf_field() }}
         </form>

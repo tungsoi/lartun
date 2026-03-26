@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <title>Csptech | Security Services</title>
+    <title>{{ $configs['APP_NAME'] }} | {{ $configs['APP_DESCRIPTION'] }}</title>
     <link rel="shortcut icon" href="https://www.cobalt.io/hubfs/Cobalt%2048x48.png">
     <meta name="generator" content="Csptech | Security Services">
     <meta name="description" content="Csptech | Security Services">
